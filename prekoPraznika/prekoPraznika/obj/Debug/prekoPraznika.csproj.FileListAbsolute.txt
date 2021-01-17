@@ -1,0 +1,10 @@
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\bin\Debug\prekoPraznika.exe.config
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\bin\Debug\prekoPraznika.exe
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\bin\Debug\prekoPraznika.pdb
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.csprojAssemblyReference.cache
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.Form1.resources
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.Properties.Resources.resources
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.csproj.GenerateResource.cache
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.csproj.CoreCompileInputs.cache
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.exe
+C:\Users\Janjo\source\repos\prekoPraznika\prekoPraznika\obj\Debug\prekoPraznika.pdb
